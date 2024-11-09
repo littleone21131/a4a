@@ -1,0 +1,117 @@
+/* styles.css */
+
+/* Sidebar styles */
+.sidebar {
+    height: 100vh;
+    background-color: #343a40;
+  }
+  
+  .sidebar .nav-link {
+    color: #fff;
+    font-size: 18px;
+  }
+  
+  .sidebar .nav-link:hover {
+    color: #f8f9fa;
+    background-color: #495057;
+  }
+  
+  /* Dashboard Cards Styles */
+  .dashboard-cards {
+    margin-top: 20px;
+  }
+  
+  .card {
+    margin-bottom: 20px;
+  }
+  
+  .card-title {
+    font-size: 24px;
+  }
+  
+  /* Additional Styles for Card Colors (Optional) */
+  .bg-dark {
+    background-color: #212529 !important;
+  }
+  
+  .bg-success {
+    background-color: #28a745 !important;
+  }
+  
+  .bg-danger {
+    background-color: #dc3545 !important;
+  }
+  
+  .bg-primary {
+    background-color: #007bff !important;
+  }
+  
+  .bg-warning {
+    background-color: #ffc107 !important;
+  }
+  
+  .bg-info {
+    background-color: #17a2b8 !important;
+  }
+  
+  .bg-secondary {
+    background-color: #6c757d !important;
+  }/* styles.css */
+
+/* Sidebar styles */
+.sidebar {
+    height: 100vh;
+    background-color: #343a40;
+  }
+  
+  .sidebar .nav-link {
+    color: #fff;
+    font-size: 18px;
+  }
+  
+  .sidebar .nav-link:hover {
+    color: #f8f9fa;
+    background-color: #495057;
+  }
+  
+  /* Dashboard Cards Styles */
+  .dashboard-cards {
+    margin-top: 20px;
+  }
+  
+  .card {
+    margin-bottom: 20px;
+  }
+  
+  .card-title {
+    font-size: 24px;
+  }
+  
+  /* Additional Styles for Card Colors (Optional) */
+  .bg-dark {
+    background-color: #212529 !important;
+  }
+  
+  .bg-success {
+    background-color: #28a745 !important;
+  }
+  
+  .bg-danger {
+    background-color: #dc3545 !important;
+  }
+  
+  .bg-primary {
+    background-color: #007bff !important;
+  }
+  
+  .bg-warning {
+    background-color: #ffc107 !important;
+  }
+  
+  .bg-info {
+    background-color: #17a2b8 !important;
+  }
+  
+  .bg-secondary {
+    background-color: #6c757d !important;
+  }
