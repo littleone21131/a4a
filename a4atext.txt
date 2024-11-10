@@ -1,0 +1,7 @@
+to create package.jason
+npm init
+create index.js
+npm I express -save
+folder public
+incide public folder create index.html
+node index.js
