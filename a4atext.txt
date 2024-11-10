@@ -5,3 +5,14 @@ npm I express -save
 folder public
 incide public folder create index.html
 node index.js
+static:-content or behavior that does not change after being loaded.,HTML/CSS load fast
+dynamic:-content or behavior that can change based on user input, server responses, javascript php,node.js ,load very slow becuse take information from real time server
+A static website is a website where the content is fixed and does not change unless manually updated by the developer. The pages of a static website are typically created using HTML, CSS, and sometimes JavaScript to display the content
+key pionts:-
+Fixed Content: The content remains the same for all users and does not change dynamically.
+Simple Structure: Built using HTML, CSS, and JavaScript, without server-side processing or databases.
+Fast Loading: Static files are served directly to the browser, leading to faster page loads.
+Easy Hosting: Can be hosted on basic web servers or platforms like GitHub Pages or Netlify.
+Limited Interactivity: Offers minimal user interaction, primarily relying on client-side JavaScript for basic interactivity.
+Low Maintenance: No backend or database management, making it easier to maintain.
+Ideal for Small Sites: Best suited for portfolios, blogs, and informational websites
