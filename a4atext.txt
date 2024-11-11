@@ -14,5 +14,11 @@ Simple Structure: Built using HTML, CSS, and JavaScript, without server-side pro
 Fast Loading: Static files are served directly to the browser, leading to faster page loads.
 Easy Hosting: Can be hosted on basic web servers or platforms like GitHub Pages or Netlify.
 Limited Interactivity: Offers minimal user interaction, primarily relying on client-side JavaScript for basic interactivity.
+Explain Express.js.
+• Express.js is a web application framework for Node.js. It simplifies the process of
+building web applications and APIs by providing minimal, flexible, and easy-to-use
+routing and middleware.
+o Example: Setting up routes like app.get('/route', callback) for handling
+different endpoints
 Low Maintenance: No backend or database management, making it easier to maintain.
 Ideal for Small Sites: Best suited for portfolios, blogs, and informational websites
